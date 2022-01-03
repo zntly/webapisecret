@@ -4,5 +4,8 @@ function SendRequest(x, request)
 end
 
 function Crash(x)
-  x:SendRequest(while true do end)
+  local crasher = {
+    while true do end
+}
+  SendRequest(x, crasher)
 end
