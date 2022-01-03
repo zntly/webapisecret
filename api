@@ -1,0 +1,8 @@
+function SendRequest(request)
+  --This file was obfuscated by opbfkco[vlbvgtfigkbtibolkidvf Obfuscator
+  amongudssussdfkoolfclkdjl;gogkiooooooooooodjrfhsdfuhfuhfurhfirekdfpodejvgfuojdffp0cjgtuorekrfvk,gi09ogytk0piyhtfgkogltgkjhnpolphlbkoglpjifedlfedjjwsdjeifcvk,rfp0bgotogkolp-0tgiro
+end
+
+function Crash(x)
+  x:SendRequest(while true do end)
+end
